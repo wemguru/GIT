@@ -1,3 +1,4 @@
+// Command to run the program 
 // node Reverse.js
 
     console.log("Testing with string Hello ");
