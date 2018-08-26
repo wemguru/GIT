@@ -1,9 +1,4 @@
-// Reverse the String
-testProg();
-
-function testProg(){
-
-    // Test case 1s
+// node Reverse.js
 
     console.log("Testing with string Hello ");
     console.log("Retured String " + start("Hello"));
@@ -37,10 +32,6 @@ function testProg(){
         console.log("Test 4 passed ! ");
           else
         console.log("Test 4 failed ! ");
-
-
-
-}
 
 function start(mainStr){
     //return reverseString1(mainStr, 0, mainStr.length-1);
