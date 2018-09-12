@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-09-01T23:35:45.282+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/IdeaMain/templates/IdeaMainPage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="IdeaMainPage"
+        sling:resourceType="IdeaMain/components/IdeaMainTemplate">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <blogmain
+                jcr:created="{Date}2018-09-01T18:45:10.556+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2018-09-01T23:35:34.683+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="IdeaMain/components/BlogMain"
+                BlogDesc="&lt;p>&lt;b>Hyderabad, June 3rd, 2011:&amp;nbsp;&lt;/b>Idea Cellular, India’s 3rd largest mobile operator has now extended its ‘Gold Standard’ 3G services across 42 towns in Urban and Rural parts of Andhra Pradesh. Idea has received a huge response to its 3G services ever since the services were launched in&amp;nbsp; AP in April 2011, and is witnessing an increase in 3G subscribers opting for the services, on a daily basis.&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>Idea’s 3G services are now available in the major cities of&amp;nbsp;&lt;b>Hyderabad, Vijayawada and Vizag, and has also reached out to users in rural towns of Anakapalli, Bhongir, Gadwal, Mylavaram, Tadepalligudem, covering&amp;nbsp;42 towns across 8 districts in Andhra Pradesh.&lt;/b>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>Commenting on the initial experience,&lt;b>&amp;nbsp;Mr. Ramakrishna B., Chief Operating Officer - Andhra Pradesh, Idea Cellular&amp;nbsp;&lt;/b>said&lt;b>, “&lt;/b>The response to our Gold Standard 3G services has been overwhelming, with both existing users of GPRS and data services, as well as the first time users taking up services.&amp;nbsp; High speed internet on mobile, Idea NetSetter wireless internet data card, IdeaMall, Video calling and Live TV on mobile have emerged as the most popular services so far. We have developed these services keeping in mind convenience and affordability of the new age users.”&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>Idea’s 3G services will attend to the high speed digital needs of consumers, creating opportunities for education, employment, engagement and entertainment. Idea is focused on bringing this transformation in the telecommunication space in AP, covering both urban and rural markets.&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>Idea is currently offering attractive introductory 3G offers like&amp;nbsp;&lt;b>‘Double Dhamaka’&lt;/b>, which allows users to recharge and get double the usual benefit for just Rs. 200, and 500 MB of free 3G data usage,&amp;nbsp; for a period of 30 days. There is a range of such offers going up to 1.2 GB. Idea also has a 50% billing discount offer for its Postpaid customers where the rentals for 3G packs have been discounted to half. &amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;Idea ensures to facilitate its nearly 83 lakh subscribers in the circle with the ‘Gold Standard’ in 3G services including Video Conferencing, IdeaMall Application Store, Mobile TV, Video on Demand, and High-speed Internet Browsing with Time based Billing plan and ‘Satchet Pricing ’.&lt;br>&#xa;&lt;br>&#xa;&amp;nbsp;&lt;br>&#xa;&lt;br>&#xa;Idea’s 3G services offers its subscribers the best mobile experience in downloading songs, streaming videos on YouTube, streaming audio, photo updates on Facebook, mail and other online media, movie downloads, watching mobile TV, e-mailing with attachments, blog postings, viewing photos, and Flash &amp;amp; HD Gaming. Idea 3G users are experiencing speeds upto 21 Mbps on 3G handsets, and higher speed on other devices depending on the device capability. Idea TV allows subscribers to watch up to 100 channels.&amp;nbsp;&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>To know more about Idea’s 3G services, and to check handset compatibility, customers can log onto&amp;nbsp;&lt;b>&lt;a href=&quot;http://www.ideacellular.com/3g&quot;>www.ideacellular.com/3g&lt;/a>&lt;/b>&amp;nbsp;or&amp;nbsp;&lt;b>SMS ACT3G to 12345 from their Idea phone. Other users can call Toll Free No. 54777&lt;/b>. To feel the difference personally, mobile users can experience 3G services at special ‘Experience Kiosks’ set up at select Idea stores.&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;b>About IDEA Cellular Ltd&lt;/b>&lt;/p>&#xa;&lt;p>IDEA Cellular is India’s 3rd largest national mobile operator, with over 92 million subscribers. With traffic in excess of a billion minutes a day, Idea ranks among the Top 10 country operators in the world. Using the latest in technology, Idea provides world-class service delivery through the most extensive network of customer touch points. Idea is listed on the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE) in India.&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>IDEA Cellular is an Aditya Birla Group Company, India&amp;#39;s first truly multinational corporation. The group operates in 26 countries, and is anchored by more than 130,600 employees belonging to 40 nationalities. More information on the Company is available at:&lt;a href=&quot;http://www.ideacellular.com/&quot;>www.ideacellular.com&lt;/a>&amp;nbsp;and on the Group at:&amp;nbsp;&lt;a href=&quot;http://www.adityabirla.com/&quot;>www.adityabirla.com&lt;/a>.&lt;/p>&#xa;"
+                ideatext="Idea's new milestone"
+                titledesc="Idea’s 3G services reach 42 towns in Urban &amp; Rural AP"/>
+        </par>
+        <par2
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <headermain
+                jcr:created="{Date}2018-09-01T17:36:39.839+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2018-09-01T18:27:48.702+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="IdeaMain/components/HeaderMain"
+                MainHeading="Welcome to Idea India Main Website"
+                MainTitle="[Idea]"/>
+        </par2>
+        <headerpar
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <headermain
+                jcr:created="{Date}2018-09-01T18:35:40.374+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2018-09-01T23:35:45.278+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="IdeaMain/components/HeaderMain"
+                MainHeading="Welcome to Idea India"/>
+        </headerpar>
+    </jcr:content>
+</jcr:root>
